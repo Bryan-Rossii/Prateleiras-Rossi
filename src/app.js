@@ -16,42 +16,42 @@ const initialItems = [
     endereco: '3-A-A-2',
     foto: 'https://i.imgur.com/YCTi7qC.jpeg'
   },
- {
+  {
     id: 3,
     codigo: '25208196',
     nome: 'ELEVADOR DE MOUNT 7/8 ROSSI (30,5X40 MM)',
     endereco: '3-A-A-3',
     foto: 'https://i.imgur.com/EaeyTDR.jpeg'
   },
- {
+  {
     id: 4,
     codigo: '25208264',
     nome: 'ADAPTADOR DE TRILHO ROSSI - 7/8 PARA 3/8',
     endereco: '3-A-A-4',
     foto: 'https://i.imgur.com/gGGaxon.jpeg'
-  }
-{
+  },
+  {
     id: 5,
     codigo: '25208264',
     nome: 'ADAPTADOR DE TRILHO ROSSI - 7/8 PARA 3/8',
     endereco: '3-A-A-5',
     foto: 'https://i.imgur.com/gGGaxon.jpeg'
-  }
- {
+  },
+  {
     id: 6,
     codigo: '25208266',
     nome: 'ADAPTADOR TRILHO ROSSI (7/8) - SUPORTE BANDOLEIRA',
     endereco: '3-A-A-6',
     foto: 'https://i.imgur.com/EJHnMkT.jpeg'
-  }
- {
+  },
+  {
     id: 7,
     codigo: '25208266',
     nome: 'ADAPTADOR TRILHO ROSSI (7/8) - SUPORTE BANDOLEIRA',
     endereco: '3-A-A-7',
     foto: 'https://i.imgur.com/EJHnMkT.jpeg'
-  }
- {
+  },
+  {
     id: 8,
     codigo: '25208267',
     nome: 'ADAPTADOR TRILHO ROSSI ANGULAR (7/8)',

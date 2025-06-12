@@ -7,7 +7,7 @@ const initialItems = [
     codigo: '25208191',
     nome: 'Mount Alto 3/8 Rossi Tubo 25mm (2 Parafusos)',
     endereco: '3-A-A-1',
-    foto: 'https://imgur.com/yGGuvxx'
+    foto: 'https://i.imgur.com/yGGuvxx.jpeg'
   },
   {
     id: 2,

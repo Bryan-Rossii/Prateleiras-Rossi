@@ -5,16 +5,30 @@ const initialItems = [
   {
     id: 1,
     codigo: '25208191',
-    nome: 'Mount Alto 3/8 Rossi Tubo 25mm (2 Parafusos)',
+    nome: 'MOUNT 3/8 ROSSI-TUBO 25MM (2 PARAFUSOS)',
     endereco: '3-A-A-1',
     foto: 'https://i.imgur.com/yGGuvxx.jpeg'
   },
   {
     id: 2,
     codigo: '25208193',
-    nome: 'Mount Alto 3/8 Tubo 25mm (4 Parafusos)',
+    nome: 'MOUNT ALTO ROSSI 3/8 -TUBO 25MM (4 PARAFUSOS)',
     endereco: '3-A-A-2',
     foto: 'https://i.imgur.com/YCTi7qC.jpeg'
+  },
+ {
+    id: 3,
+    codigo: '25208196',
+    nome: 'ELEVADOR DE MOUNT 7/8 ROSSI (30,5X40 MM)',
+    endereco: '3-A-A-3',
+    foto: 'https://i.imgur.com/EaeyTDR.jpeg'
+  },
+ {
+    id: 4,
+    codigo: '25208264',
+    nome: 'ADAPTADOR DE TRILHO ROSSI - 7/8 PARA 3/8',
+    endereco: '3-A-A-4',
+    foto: 'https://i.imgur.com/gGGaxon.jpeg'
   }
 ];
 

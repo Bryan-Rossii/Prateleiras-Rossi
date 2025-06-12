@@ -4,10 +4,10 @@ import { useState } from 'react';
 const initialItems = [
   {
     id: 1,
-    codigo: 'ABC001',
-    nome: 'Fita Adesiva',
+    codigo: '25209017',
+    nome: 'Cápsula Descartável Co2 Banza',
     endereco: 'Corredor A - Prateleira 1',
-    foto: 'https://i.imgur.com/8Km9tLL.jpg'
+    foto: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbuyxzOhDnt2ptPchRARAY2qXesIeZErDcfA&s'
   },
   {
     id: 2,

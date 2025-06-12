@@ -30,6 +30,34 @@ const initialItems = [
     endereco: '3-A-A-4',
     foto: 'https://i.imgur.com/gGGaxon.jpeg'
   }
+{
+    id: 5,
+    codigo: '25208264',
+    nome: 'ADAPTADOR DE TRILHO ROSSI - 7/8 PARA 3/8',
+    endereco: '3-A-A-5',
+    foto: 'https://i.imgur.com/gGGaxon.jpeg'
+  }
+ {
+    id: 6,
+    codigo: '25208266',
+    nome: 'ADAPTADOR TRILHO ROSSI (7/8) - SUPORTE BANDOLEIRA',
+    endereco: '3-A-A-6',
+    foto: 'https://i.imgur.com/EJHnMkT.jpeg'
+  }
+ {
+    id: 7,
+    codigo: '25208266',
+    nome: 'ADAPTADOR TRILHO ROSSI (7/8) - SUPORTE BANDOLEIRA',
+    endereco: '3-A-A-7',
+    foto: 'https://i.imgur.com/EJHnMkT.jpeg'
+  }
+ {
+    id: 8,
+    codigo: '25208267',
+    nome: 'ADAPTADOR TRILHO ROSSI ANGULAR (7/8)',
+    endereco: '3-A-A-8',
+    foto: 'https://i.imgur.com/dX6hALR.jpeg'
+  }
 ];
 
 export default function PrateleirasExpedicaoRossi() {

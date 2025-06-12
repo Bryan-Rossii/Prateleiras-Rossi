@@ -11,10 +11,10 @@ const initialItems = [
   },
   {
     id: 2,
-    codigo: 'DEF002',
-    nome: 'Caixa P',
-    endereco: 'Corredor B - Prateleira 3',
-    foto: 'https://i.imgur.com/IOhLZ8y.jpg'
+    codigo: '25208193',
+    nome: 'Mount Alto 3/8 Tubo 25mm (4 Parafusos)',
+    endereco: '3-A-A-2',
+    foto: 'https://i.imgur.com/YCTi7qC.jpeg'
   },
   {
     id: 3,

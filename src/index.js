@@ -1,0 +1,12 @@
+
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import PrateleirasExpedicaoRossi from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <PrateleirasExpedicaoRossi />
+  </React.StrictMode>
+);

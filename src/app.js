@@ -15,13 +15,6 @@ const initialItems = [
     nome: 'Mount Alto 3/8 Tubo 25mm (4 Parafusos)',
     endereco: '3-A-A-2',
     foto: 'https://i.imgur.com/YCTi7qC.jpeg'
-  },
-  {
-    id: 3,
-    codigo: 'XYZ003',
-    nome: 'Plástico Bolha',
-    endereco: 'Corredor C - Prateleira 2',
-    foto: 'https://i.imgur.com/KZsmUi2l.jpg'
   }
 ];
 
